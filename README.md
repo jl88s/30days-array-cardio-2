@@ -1,0 +1,3 @@
+#30 Days of JavaScript - Array Cardio Day 2 ###Saturday June 27, 2020 - 1:05 PM
+
+Just keep swimming, just keep swimming, just keep swimming....
